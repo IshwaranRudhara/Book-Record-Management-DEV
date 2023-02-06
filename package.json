@@ -1,0 +1,26 @@
+{
+  "name": "book-record-management-dev",
+  "version": "1.0.0",
+  "description": "Book Record Managment Application ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshwaranRudhara/Book-Record-Management-DEV.git"
+  },
+  "author": "IshwaranRudhara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshwaranRudhara/Book-Record-Management-DEV/issues"
+  },
+  "homepage": "https://github.com/IshwaranRudhara/Book-Record-Management-DEV#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
